@@ -39,7 +39,7 @@ The sales director sought answers to various questions to enhance the company's 
 5) Save the Tableau file as (.twb or .twbx).
 
 ## Data Analysis Using SQL
-The following SQL queries were used to explore the data:
+The following operations were used to explore the data (SQL queries in other file):
 
 - Show all customer records.
 - Display the total number of customers.
