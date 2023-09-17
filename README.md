@@ -1,6 +1,5 @@
 # Hardware-Company-Sales-Insights
-The project aimed to provide valuable insights into the company's sales performance using data analysis techniques and tools like Tableau and SQL.
-Introduction
+
 This report outlines a data analysis project conducted on behalf of an India-based hardware company. The project aimed to provide valuable insights into the company's sales performance using data analysis techniques and tools like Tableau and SQL. Below, you will find an overview of the project's objectives, methodologies, and key findings.
 
 ## Project Overview
